@@ -1,2 +1,25 @@
-# Simple-C-File-Manager
-This C program enables basic file manipulation operations like creating, deleting, and modifying files. Users can choose an action via a simple command-line interface. It's a helpful tool for learning file handling in C and can serve as a foundation for more complex file management applications.
+# File Manipulation Program
+
+This program allows users to create, delete, and modify files using C.
+
+## How to Use
+
+1. Run the program.
+2. Choose an option:
+   - Enter `1` to create a new file.
+   - Enter `2` to delete a file.
+   - Enter `3` to modify a file.
+3. Follow the prompts to complete the chosen action.
+
+## Requirements
+
+- This program requires a C compiler to build and run.
+
+## Notes
+
+- Make sure to enter the correct file name when prompted.
+- Use caution when deleting files, as the action is irreversible.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
